@@ -1,1 +1,2 @@
-qt
+first qt programing.
+test version
